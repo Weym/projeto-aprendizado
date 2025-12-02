@@ -5,6 +5,6 @@ Causes network collisions because every device shares the same collision domain
 Mostly obsolete
 
 Connections:
-[[switch]]
-[[network-collision-domains]]
-[[broadcast-traffic]] vs [[unicast-traffic]]
+[switch](switch.md)
+[network-collision-domains](network-collision-domains.md)
+[broadcast-traffic](broadcast-traffic.md) vs [unicast-traffic](unicast-traffic.md)

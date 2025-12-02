@@ -7,5 +7,5 @@ Advantage: Avoids data collision, traffic is predictable.
 Disadvantage: Failure on one device can bring down the entire ring.
 
 Connections:
-Compared to [[topology-point-to-point]], it's a series of direct connections forming a cycle.
-[[token-ring]]
+Compared to [topology-point-to-point](topology-point-to-point.md), it's a series of direct connections forming a cycle.
+[token-ring](token-ring.md)

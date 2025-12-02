@@ -11,5 +11,5 @@ Network communication relies on four pillars:
 Sender/Receiver can switch roles during communication.
 
 ## Connections
-Governed by: [[network-protocols]]
-Visualized via: [[semiotics-in-networking]]
+Governed by: [network-protocols](network-protocols.md)
+Visualized via: [semiotics-in-networking](semiotics-in-networking.md)

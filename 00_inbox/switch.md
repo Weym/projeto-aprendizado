@@ -7,7 +7,7 @@ Creates separate collision domains per port
 The foundational devices of modern LANs
 
 Connections:
-[[hub]]
-[[LAN]]
-[[MAC-address]]
-[[OSI-Model-Layer-2]]
+[hub](hub.md)
+[LAN](LAN.md)
+[MAC-address](MAC-address.md)
+[OSI-Model-Layer-2](OSI-Model-Layer-2.md)

@@ -8,4 +8,4 @@ In a **Mesh Topology**, every device has a dedicated point-to-point connection w
 - **Use case**: The Internet Backbones.
 
 ## Connections:
-- Enables: [[load-balancing]] and [[redundancy]]
+- Enables: [load-balancing](load-balancing.md) and [redundancy](redundancy.md)

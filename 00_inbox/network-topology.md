@@ -6,8 +6,8 @@
 
 ## Connections
 Types:
-- [[topology-bus]]
-- [[topology-ring]]
-- [[topology-star]]
-- [[topology-mesh]]
-- [[topology-point-to-point]]
+- [topology-bus](topology-bus.md)
+- [topology-ring](topology-ring.md)
+- [topology-star](topology-star.md)
+- [topology-mesh](topology-mesh.md)
+- [topology-point-to-point](topology-point-to-point.md)

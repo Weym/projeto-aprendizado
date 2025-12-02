@@ -7,5 +7,5 @@ All devices share a single communication cable. Data is sent to the entire netwo
 - **Cons**: Highly vulnerable with a single point of failure. Low scalability.
 
 ## Connections:
-- Contrasts with [[topology-star]]
-- Risk factor: Low [[redundancy]]
+- Contrasts with [topology-star](topology-star.md)
+- Risk factor: Low [redundancy](redundancy.md)
