@@ -142,9 +142,6 @@ O "catálogo telefônico" da internet. Traduz `google.com` -> `142.250.1.1`.
 * **WAN:** Longa distância (Internet).
 
 ### Modelos de Camadas
-
-![Modelo de camadas](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ6Kt5D_SuRZka9AaKQwzcGYb-6iQ4VeQHIImwvt6Hq9hRsydGIZNxxXviiKZITIKrA6_CNfqX4kaggssDYeeysZEk6pKEh9lhgK_KXwmsAMsGIQcU)
-
 * **OSI (7 Camadas):** Física, Enlace, Rede, Transporte, Sessão, Apresentação, Aplicação.
 * **TCP/IP (4 Camadas):** Acesso à Rede, Internet, Transporte, Aplicação.
 
