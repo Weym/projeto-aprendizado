@@ -2,6 +2,16 @@
 
 Este repositório contém um compêndio de anotações, conceitos e explicações práticas baseadas em 10 aulas de Redes de Computadores. O objetivo é servir como guia de consulta rápida sobre infraestrutura, protocolos, segurança e arquitetura web.
 
+## Impacto
+
+O curso desmistificou o funcionamento da Internet, partindo da infraestrutura física (topologias e hardware) até as camadas lógicas de aplicação (HTTP, APIs e DNS). Foi construída uma base sólida sobre como os dados trafegam (TCP/IP), como as redes são endereçadas (IPv4/IPv6) e como proteger essas informações através de criptografia e barreiras defensivas.
+
+**O impacto desse aprendizado:**
+Este conhecimento transforma a visão da rede como uma "caixa preta" em um sistema que começa a ser compreensível.
+
+Além do conteúdo técnico, foi passado pelo Kenji conteúdo para a vida. Se perguntar porque algo funciona do jeito que funciona, buscar entender como as coisas funcionam e não aceitar o que o concenso diz como verdade sem entender os motivos por trás.
+
+
 ## 📚 Índice
 
 1.  [Fundamentos e Topologias](#1-fundamentos-e-topologias)
